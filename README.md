@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/10142d81-cec9-4c72-981d-11dcea7d8766" /># GUI-CRUD-Python-Project
+# GUI-CRUD-Python-Project
 This is an inventory based project made by connecting Python and MySQL with a minimal interface(GUI). Although I spent like 2 months, yet my contribution to this project is like only 30% and remaining is work of my teacher who made me capable of making something such grand.
 # If you directly want to see result, simply see the word file and block diagram files...
 # To make it work:
